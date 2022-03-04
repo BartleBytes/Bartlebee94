@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Bartlebee94
 - 👀 I’m interested in using code to build cool financial tools   
-- 🌱 I’m currently learning the basics html, css, python, 
+- 🌱 I’m currently learning the basics node.js, javascript, python, 
 - 📫 How to reach me ... dylanbartle@hotmail.com
 
 <!---
